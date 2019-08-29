@@ -19,7 +19,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/couchbase/vellum"
+	"github.com/blugelabs/vellum"
 	"github.com/spf13/cobra"
 )
 
